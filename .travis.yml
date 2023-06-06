@@ -4,7 +4,7 @@ services:
 
 
 before_install:
-  - docker build -t beuelvinc/docker-react -f Dockerfile.dev .
+  - docker build -t beuelvinc/docker-react -f Dockerfile .
 
 script:
   - docker run -e CI=TRUE beuelvinc/docker-react npm run test
