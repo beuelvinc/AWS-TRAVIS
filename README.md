@@ -1,3 +1,3 @@
-# DEPLOYMENT OF simple react app on AWS Elastic BeanStalk through Travis CI
+# DEPLOYMENT of simple react app on AWS Elastic BeanStalk through Travis CI
 
 
